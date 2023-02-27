@@ -1,2 +1,2 @@
 # Nios-stable-diffusion-webui-colab-japan
-stable diffusion webui colab
+### 日本人向けにstable-diffusion-webuiをcolabで使えるようにしたものです。
