@@ -1,4 +1,4 @@
-# stable-diffusion-webui-colab-japan
+# stable-diffusion-webui-colab-japanese
 
 ### colabでstable-diffusion-webuiと公開されている様々な学習済みcheckpointファイルを簡単に導入でき、日本人向けに使いやすくしたものです。
  Twitter→ https://twitter.com/ai_nios/status/1617901380370587654 <br>
