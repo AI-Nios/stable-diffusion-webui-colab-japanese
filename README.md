@@ -9,6 +9,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-Nios/Nios-stable-diffusion-webui-colab-japan/blob/main/Nios_Model_Card_Selection.ipynb) Nios_Model_Card_Selection.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-Nios/Nios-stable-diffusion-webui-colab-japan/blob/main/Nios_v2_update.ipynb) Nios_v2_update.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-Nios/Nios-stable-diffusion-webui-colab-japan/blob/main/Nios_v3.ipynb) Nios_v3.ipynb
+【推奨ブラウザ】PC:Chrome, Edge スマホ: googleアプリ, safari
 
 ## Colab Pageの説明
 ### Nios_Model_Card_Selection.ipynb
@@ -23,7 +24,7 @@ https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0 のColabの�
 ### 2023/02/05<br>
 EasyNegative追加。ネガティブプロンプトにEasyNegativeといれることにより余計な否定プロンプトを書かなくてよくなりました。<br>
 ### 2023/02/10<br>
-WebUI拡張機能 Aspect Ratio selectorの追加。画像のアスペクト比セレクター ボタンを追加しました。 1:2,2:3,9:16など<br>
+WebUI拡張機能 Aspect Ratio selectorの追加。画像のアスペクト比セレクター ボタンを追加しました。 1:1,2:3,3:4,9:16など<br>
 WebUI拡張機能 images-browserの追加。WebUI起動後から現在までに生成された画像を閲覧することができます。<br>
 ### 2023/02/18<br>
 WebUI拡張機能 Push to 🤗 Hugging Faceの追加。WebUI上からモデルやVAE、LoRAを追加することができます。<br>
