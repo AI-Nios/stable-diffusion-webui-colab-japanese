@@ -14,8 +14,8 @@
 ### Nios_Model_Card_Selection.ipynb
 使用方法:noteに記載 URL → https://note.com/ai_nios/n/n0826a33edc8a 
 ### Nios_v2_update.ipynb
-Nios_Model_Card_Selection.ipynbのプログラムに加え、公開されてる学習済みのLoRAやTextual InversionをColab上から選択してダウンロードできます。<br>
-ControlNetも使用できます。
+Nios_Model_Card_Selection.ipynbのプログラムに加え、公開されてる学習済みのLoRAやTextual InversionをColab上から選択してダウンロードできるプログラムコードを追加しています。<br>
+ControlNetを使用できます。
 ### Nios_v3.ipynb
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0 のColabのプログラムコードに基づき、Nios_v2_update.ipynbと同じ感覚で使用できるようにしました。<br>
 
