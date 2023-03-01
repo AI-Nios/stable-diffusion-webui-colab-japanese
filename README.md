@@ -11,7 +11,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-Nios/Nios-stable-diffusion-webui-colab-japan/blob/main/Nios_v3.ipynb) Nios_v3.ipynb
 【推奨ブラウザ】PC:Chrome, Edge スマホ: googleアプリ, safari
 
-## Colab Pageの説明
+## Colab Pageの概要
 ### Nios_Model_Card_Selection.ipynb
 使用方法:noteに記載 URL → https://note.com/ai_nios/n/n0826a33edc8a 
 ### Nios_v2_update.ipynb
