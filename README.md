@@ -22,9 +22,9 @@ https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0 のColabの�
 
 ## 追加・変更のお知らせ
 ### 2023/02/05<br>
-EasyNegative追加。ネガティブプロンプトにEasyNegativeといれることにより余計な否定プロンプトを書かなくてよくなりました。<br>
+EasyNegative追加。ネガティブプロンプトにEasyNegativeといれることにより余計な否定プロンプトを書く必要がなくなりました。<br>
 ### 2023/02/10<br>
-WebUI拡張機能 Aspect Ratio selectorの追加。画像のアスペクト比セレクター ボタンを追加しました。 1:1,2:3,3:4,9:16など<br>
+WebUI拡張機能 Aspect Ratio selectorの追加。画像のアスペクト比セレクターボタンを追加しました。 1:1,2:3,3:4,9:16など<br>
 WebUI拡張機能 images-browserの追加。WebUI起動後から現在までに生成された画像を閲覧することができます。<br>
 ### 2023/02/18<br>
 WebUI拡張機能 Push to 🤗 Hugging Faceの追加。WebUI上からモデルやVAE、LoRAを追加することができます。<br>
