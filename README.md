@@ -15,6 +15,7 @@
 ### Nios_Model_Card_Selection.ipynb
 使用方法:noteに記載 URL → https://note.com/ai_nios/n/n0826a33edc8a 
 ### Nios_v2_update.ipynb
+より多くのcheckpointファイルを選択できます。
 Nios_Model_Card_Selection.ipynbのプログラムコードに加え、公開されてる学習済みのLoRAやTextual InversionをColab上から選択してダウンロードできるプログラムコードを追加しています。<br>
 ControlNetを使用できます。
 ### Nios_v3.ipynb
