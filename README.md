@@ -42,6 +42,7 @@ WebUI拡張機能 ControlNet追加しました。<br>
 ･[Booru tag autocompletion for A1111(タグのオートコンプリート)](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)<br>
 ･[Dataset Tag Editor](https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor)<br>
 ･[Merge Block Weighted - GUI](https://github.com/bbc-mc/sdweb-merge-block-weighted-gui)<br>
+･[sd-civitai-browser](https://github.com/camenduru/sd-civitai-browser)<br>
 ･[Additional Networks for generating images](https://github.com/kohya-ss/sd-webui-additional-networks)<br>
 ･[Latent Couple extension (two shot diffusion port)](https://github.com/opparco/stable-diffusion-webui-two-shot)<br>
 ･[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)<br>
