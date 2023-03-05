@@ -57,4 +57,4 @@ WebUI拡張機能 ControlNet追加しました。<br>
 ･[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)<br>
 ･[Openpose Editor](https://github.com/camenduru/openpose-editor)<br>
 ･[sd-webui-depth-lib](https://github.com/jexom/sd-webui-depth-lib)<br>
-･[stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities)<br>（OpenAIの有料アカウントが必要）
+･[stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities)（OpenAIの有料アカウントが必要）<br>
