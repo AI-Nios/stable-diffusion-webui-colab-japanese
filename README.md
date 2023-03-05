@@ -41,7 +41,7 @@ WebUI拡張機能 images-browserの追加。WebUI起動後から現在までに�
 WebUI拡張機能 Push to 🤗 Hugging Faceの追加。WebUI上からモデルやVAE、LoRAを追加することができます。<br>
 WebUI拡張機能 ControlNet追加しました。<br>
 ### 2023/03/06<br>
-WebUI拡張機能 sd-webui-depth-lib追加
+WebUI拡張機能 sd-webui-depth-lib追加<br>
 WebUI拡張機能 stable-diffusion-webui-chatgpt-utilities追加（OpenAIの有料アカウントが必須）colabでも使えた方は教えてください。<br>
 
 ## 対応モデル名(Nios_v2_update.ipynb以降）<br>
