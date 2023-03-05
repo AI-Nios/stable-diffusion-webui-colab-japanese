@@ -42,7 +42,7 @@ WebUI拡張機能 Push to 🤗 Hugging Faceの追加。WebUI上からモデル�
 WebUI拡張機能 ControlNet追加しました。<br>
 ### 2023/03/06<br>
 WebUI拡張機能 sd-webui-depth-lib追加<br>
-WebUI拡張機能 stable-diffusion-webui-chatgpt-utilities追加（OpenAIの有料アカウントが必須）colabでも使えた方は教えてください。<br>
+WebUI拡張機能 stable-diffusion-webui-chatgpt-utilities追加（OpenAIの有料アカウントが必須）colabで使えた方は報告求む。<br>
 
 ## 対応モデル名(Nios_v2_update.ipynb以降）<br>
 ### ckpt（safetensors）ファイルを<br>
