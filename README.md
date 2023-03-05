@@ -56,3 +56,5 @@ WebUI拡張機能 ControlNet追加しました。<br>
 ･[Latent Couple extension (two shot diffusion port)](https://github.com/opparco/stable-diffusion-webui-two-shot)<br>
 ･[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)<br>
 ･[Openpose Editor](https://github.com/camenduru/openpose-editor)<br>
+･[sd-webui-depth-lib](https://github.com/jexom/sd-webui-depth-lib)<br>
+･[stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities)<br>（OpenAIの有料アカウントが必要）
