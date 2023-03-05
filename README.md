@@ -3,7 +3,7 @@
 ### Google ColaboratoryでStable Diffusion WebUIと様々な学習済みcheckpoint（safetensors）ファイルを簡単に導入でき、日本人向けに使いやすくしたものです。
  Twitter→ https://twitter.com/ai_nios/status/1617901380370587654 <br>
  note→　https://note.com/ai_nios/n/n0826a33edc8a
-## 🦒 Colab
+## Colab
 | Colab name | Colab Page |
 | --- | --- |
 Nios_Model_Card_Selection.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-Nios/Nios-stable-diffusion-webui-colab-japan/blob/main/Nios_Model_Card_Selection.ipynb)  
