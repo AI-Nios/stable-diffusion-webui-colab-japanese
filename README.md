@@ -15,12 +15,6 @@ Nios_v3.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab
 ## 注意事項
 ###  生成した画像の利用については自己判断および自己責任でお願いします。
 
-## 問題
-頻繁にモデルを切り替えるとエラーが発生する<br>
-Hires.fixで高い解像度の設定を行うとエラーが発生する<br>
-ランタイムの変更でGPUクラスを標準/プレミアの選択でプレミアを選択、あるいはランタイムの仕様で標準/ハイメモリでハイメモリを選ぶとエラーが発生する<br>
-ファイルサイズの大きいckptファイルに切り替えるとWebUIが停止する<br>
-
 ## Colab Pageの概要
 ### Nios_Model_Card_Selection.ipynb
 使用方法:noteに記載 URL → https://note.com/ai_nios/n/n0826a33edc8a 
