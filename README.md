@@ -21,10 +21,11 @@ Nios_v3.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab
 ### Nios_v2_update.ipynb
 より多くのcheckpointファイルを選択できます。
 Nios_Model_Card_Selection.ipynbのプログラムコードに加え、公開されてる学習済みのLoRAやTextual InversionをColab上から選択してダウンロードできるプログラムコードを追加しています。<br>
-ControlNetを使用できます。
+ControlNetを使用できます。<br>
+起動に約7分かかる。安定型。<br>
 ### Nios_v3.ipynb
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/v2.0 のColabのソースコードに基づき、Nios_v2_update.ipynbと同じ感覚で使用できるようにしました。<br>
-
+起動に約5分かかる。不安定。<br>
 ## 追加・変更のお知らせ
 ### 2023/02/05<br>
 EasyNegative追加。ネガティブプロンプトにEasyNegativeといれることにより余計な否定プロンプトを書く必要がなくなりました。<br>
