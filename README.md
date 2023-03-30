@@ -39,7 +39,9 @@ WebUI拡張機能 ControlNet追加しました。<br>
 WebUI拡張機能 sd-webui-depth-lib追加<br>
 WebUI拡張機能 stable-diffusion-webui-chatgpt-utilities追加（OpenAIの有料アカウントが必須）colabで使えた方は報告求む。<br>
 ### 2023/03/16<br>
-Nios_v2_update.ipynb以降の仕様変更
+Nios_v2_update.ipynb以降の仕様変更<br>
+### 2023/03/28<br>
+Colab上からモデルを追加できるようになりました。
 ## 対応モデル名(Nios_v2_update.ipynb以降）<br>
 ### ckpt（safetensors）ファイル<br>
 "stable_diffusion_v1.5","stable_diffusion_v2.1","waifu_diffusion_v1.3","Openjourney","anything-v3.0","anything-v4.0","anything-v4.5","Counterfeit-V2.0","Counterfeit-V2.5","8528-diffusion","AbyssOrangeMix2","EerieOrangeMix2","trinart2_step115000","Eimis Anime Diffusion_1.0v","dreamlike-photoreal-2.0","Cyberpunk-Anime-Diffusion","Plat Diffusion v1.3.1","ACertainThing","pastel_mix","Basil_mix_fixed","Realistic Vision V1.3","SukiyakiMix-v1.0","7th_anime_v1.1", "7th_anime_v2_A", "7th_anime_v2_B", "7th_anime_v2_C", "7th_anime_v2_G", "7th_anime_v3_A", "7th_anime_v3_B", "7th_anime_v3_C","7th_anime_3.1_B","YuzuGinger_v4","YuzuLemonMilk_v1.5", "Defmix-v1.1","RDtMix","meadmix","Nabylon-v1.0","LonganMix","Corneo's 7th Heaven Mix", "Corneo's Shinra26 Mix","atwmix_test2","Graham_Special", "BalorV2featAbyssOrange2","Balor-V2.5featAOM3A3","ChilloutMix", "wd-1-5-beta2"
