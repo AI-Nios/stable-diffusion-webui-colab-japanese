@@ -9,6 +9,7 @@
 Nios_Model_Card_Selection.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-Nios/Nios-stable-diffusion-webui-colab-japan/blob/main/Nios_Model_Card_Selection.ipynb)  
 Nios_v2_update.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-Nios/Nios-stable-diffusion-webui-colab-japan/blob/main/Nios_v2_update.ipynb) 
 Nios_v3.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-Nios/Nios-stable-diffusion-webui-colab-japan/blob/main/Nios_v3.ipynb) 
+Nios_v4_final.ipynb |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-Nios/stable-diffusion-webui-colab-japanese/blob/main/Nios_v4_final.ipynb) 
 
 【推奨ブラウザ】PC:Chrome, Edge スマホ: googleアプリ, safari<br>
 
@@ -26,6 +27,8 @@ ControlNetを使用できます。<br>
 ### Nios_v3.ipynb
 https://github.com/camenduru/stable-diffusion-webui-colab のColabのソースコードに基づき、Nios_v2_update.ipynbと同じ感覚で使用できるようにしました。<br>
 起動に約5分かかる。不安定。<br>
+### Nios_v4_final.ipynb
+より多くのモデルがダウンロード可能です。<br>
 ## 追加・変更のお知らせ
 ### 2023/02/05<br>
 EasyNegative追加。ネガティブプロンプトにEasyNegativeといれることにより余計な否定プロンプトを書く必要がなくなりました。<br>
