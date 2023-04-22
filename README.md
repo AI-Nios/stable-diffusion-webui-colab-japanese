@@ -2,7 +2,12 @@
 
 ### Google ColaboratoryでStable Diffusion WebUIと様々な学習済みcheckpoint（safetensors）ファイルを簡単に導入でき、日本人向けに使いやすくしたものです。
  Twitter→ https://twitter.com/ai_nios/status/1617901380370587654 <br>
- note→　https://note.com/ai_nios/n/n0826a33edc8a
+ note→　https://note.com/ai_nios/n/n0826a33edc8a<br>
+ <br>
+ 2023/4/21 <br>
+StableDiffusion webuiを無料で利用する場合、アカウントがBANされることはありませんが、Colabが一時的に利用できなくなる可能性があることが示唆されています。無料で実行する場合は、自己責任でお願いします。。<br>
+Pro版の方は、今まで通り利用していただいて構いません<br>
+[詳細](https://research.google.com/colaboratory/faq.html#limitations-and-restrictions)
 ## Colab
 | Colab name | Colab Page |
 | --- | --- |
