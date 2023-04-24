@@ -70,3 +70,6 @@ Colab上からモデルを追加できるようになりました。
 ･[Openpose Editor](https://github.com/camenduru/openpose-editor)<br>
 ･[sd-webui-depth-lib](https://github.com/jexom/sd-webui-depth-lib)<br>
 ･[stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities)（OpenAIの有料アカウントが必須）<br>
+･[stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)<br>
+･[batchlinks-webui](https://github.com/etherealxx/batchlinks-webui)<br>
+･[sd-dynamic-prompts](https://github.com/adieyal/sd-dynamic-promp)<br>
