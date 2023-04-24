@@ -73,3 +73,4 @@ Colab上からモデルを追加できるようになりました。
 ･[stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)<br>
 ･[batchlinks-webui](https://github.com/etherealxx/batchlinks-webui)<br>
 ･[sd-dynamic-prompts](https://github.com/adieyal/sd-dynamic-promp)<br>
+･[a1111-sd-webui-locon](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon)<br>
