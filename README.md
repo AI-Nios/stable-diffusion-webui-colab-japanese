@@ -28,10 +28,10 @@ Nios_v4_final.ipynb |  [![Open In Colab](https://colab.research.google.com/asset
 より多くのcheckpointファイルを選択できます。
 Nios_Model_Card_Selection.ipynbのプログラムコードに加え、公開されてる学習済みのLoRAやTextual InversionをColab上から選択してダウンロードできるプログラムコードを追加しています。<br>
 ControlNetを使用できます。<br>
-起動に約7分かかる。安定型。<br>
+<br>
 ### Nios_v3.ipynb
 https://github.com/camenduru/stable-diffusion-webui-colab のColabのソースコードに基づき、Nios_v2_update.ipynbと同じ感覚で使用できるようにしました。<br>
-起動に約5分かかる。不安定。<br>
+<br>
 ### Nios_v4_final.ipynb
 より多くのモデルがダウンロード可能です。<br>
 ## 追加・変更のお知らせ
